@@ -1,6 +1,7 @@
 # 📱 Calculadora Simples  
 
 Uma aplicação mobile desenvolvida em **React Native** com **Expo**, que realiza operações matemáticas básicas:  
+
 ➕ Soma  
 ➖ Subtração  
 ✖️ Multiplicação  
